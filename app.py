@@ -518,4 +518,4 @@ bot.add_cog(Music(bot))
 async def on_ready():
     print('Logged in as:\n{0.user.name}\n{0.user.id}'.format(bot))
 
-bot.run("MTAxNzE2ODQ4MDQzNDM5MzEwOA.G7fRXf.F3K3TNj4A4cjbG5KdA94JiSTXlJKNSNM_1EvJ4")
+bot.run(my discord tokcen")
